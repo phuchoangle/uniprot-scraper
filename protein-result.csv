@@ -1,0 +1,77 @@
+Protein ID,Molecular Function-GO Annot,Biological processes-GO Annot
+P75694,No information,"response to radiation;
+response to stress"
+P64506,No information,copper ion homeostasis
+P31130,No information,"cellular response to hydrogen peroxide;
+detoxification of cadmium ion;
+single-species biofilm formation on inanimate substrate"
+P76002,lysozyme inhibitor activity,defense response
+P64519,No information,"cellular response to acidic pH;
+cellular response to hydrogen peroxide;
+single-species biofilm formation on inanimate substrate"
+P76172,No information,No information
+P0AAB8,protein homodimerization activity,"response to starvation;
+response to stress;
+response to superoxide;
+response to UV"
+P0A8B5,DNA binding,"response to radiation;
+response to stress"
+P22524,No information,"cell division;
+chromosome condensation;
+chromosome segregation;
+DNA replication"
+P21363,No information,No information
+P33219,No information,No information
+Q2M7R5,No information,No information
+P0AEY5,"flavin adenine dinucleotide binding;
+NAD(P)H dehydrogenase (quinone) activity;
+NADPH dehydrogenase (quinone) activity",cellular response to oxidative stress
+P0ADX7,No information,No information
+P0A955,"(4S)-4-hydroxy-2-oxoglutarate aldolase activity;
+(R,S)-4-hydroxy-2-oxoglutarate aldolase activity;
+2-dehydro-3-deoxy-phosphogluconate aldolase activity;
+aldehyde-lyase activity;
+identical protein binding;
+oxaloacetate decarboxylase activity;
+oxo-acid-lyase activity",Entner-Doudoroff pathway through 6-phosphogluconate
+P0AET2,unfolded protein binding,"cellular stress response to acidic pH;
+response to acidic pH"
+P52119,No information,No information
+P05825,"colicin transmembrane transporter activity;
+enterobactin binding;
+enterobactin transmembrane transporter activity;
+ferric-enterobactin transmembrane transporter activity;
+ligand-gated channel activity;
+protein domain specific binding;
+siderophore uptake transmembrane transporter activity;
+signaling receptor activity","colicin transport;
+enterobactin transport;
+ferric-enterobactin import into cell;
+intracellular iron ion homeostasis;
+siderophore transmembrane transport;
+siderophore-iron import into cell"
+P0AAN5,No information,No information
+P0AAQ6,No information,No information
+P0AGD1,"copper ion binding;
+superoxide dismutase activity;
+zinc ion binding","removal of superoxide radicals;
+superoxide metabolic process"
+P39364,No information,No information
+P0AC69,"2 iron, 2 sulfur cluster binding;
+disulfide oxidoreductase activity;
+metal ion binding;
+protein homodimerization activity","cell redox homeostasis;
+intracellular iron ion homeostasis;
+iron-sulfur cluster assembly"
+P25665,"5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity;
+methionine synthase activity;
+zinc ion binding","homocysteine metabolic process;
+methionine biosynthetic process;
+methylation;
+tetrahydrofolate interconversion"
+P0A9Z1,"ATP binding;
+enzyme activator activity;
+enzyme regulator activity;
+identical protein binding;
+small molecule binding","regulation of fatty acid biosynthetic process;
+regulation of nitrogen utilization"
