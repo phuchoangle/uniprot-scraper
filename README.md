@@ -4,6 +4,8 @@ A Jupyter notebook that automatically fetches **Gene Ontology (GO) annotations**
 
 Designed for proteomics workflows to replace the tedious task of manually copying GO terms from UniProt into Excel.
 
+This code was developed by Phuc for proteomic data processing and was used to support the research presented in this paper: https://doi.org/10.1002/admi.202300314.
+
 ---
 
 ## How it works
@@ -66,11 +68,8 @@ Multiple GO terms for the same protein are separated by `;\n`.
 
 ```
 uniprot-scraper.ipynb     # main notebook
-ProteinIDs_10min.csv      # sample input (459 E. coli protein IDs)
+proteinID-sample.csv      # sample input (459 E. coli protein IDs)
+protein-result.csv        # sample output
 ```
 
 ---
-
-## Acknowledgements
-
-Inspired by [Aksh77/Bio-Scraper](https://github.com/Aksh77/Bio-Scraper/blob/master/UniProt-Scraper/scraper.py).
